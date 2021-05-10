@@ -1,0 +1,23 @@
+{
+  "scookie": {
+    "type": "string",
+    "default": "nkskdndn646494949dhksksmsmd94649454dhjsnwkso",
+    "title": "scookie 多账号请用🐴分割"
+  } ,
+    "qq": {
+    "type": "string",
+    "default": 123456,
+    "title": "需要绑定的qq 多账号请用🐴分割 数量与scookie一致 目前的任务还是手动去绑定下 懒得加"
+  } ,
+  "UA": {
+    "type": "string",
+    "default": "Mozilla/5.0 (Linux; Android 8.0.0; FRD-AL10 Build/HUAWEIFRD-AL10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/77.0.3865.120 MQQBrowser/6.2 TBS/045224 Mobile Safari/537.36 V1_AND_SQ_7.1.0_0_TIM_D TIM/3.0.0.2860 QQ/6.5.5  NetType/WIFI WebP/0.3.0 Pixel/1080",
+    "title": "Uaer-Agent"
+  } ,
+    "default": {
+    "type": "string",
+    "default": 1,
+    "title": "默认账号"
+  }
+}
+
