@@ -1,0 +1,36 @@
+{
+  "name": "dorajs-hao-you-kuai-bao",
+  "displayName": "快爆助手",
+  "version": "1.1.1",
+  "uuid": "af1964b7-eea9-47f5-90e8-a05dd7c4f28b",
+  "description": "",
+  "icon": "/assets/icon.png",
+  "prefs": "assets/prefs.json",
+  "main": "main.js",
+  "license": "UNLICENSED",
+  "author": {
+    "name": "chegege"
+  },
+  "engineStrick": true,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "updates": "",
+  "contributes": {
+    "search": null
+  },
+  "homepage": "",
+  "engines": {
+    "dora": ">=1.8.1"
+  },
+  "keywords": [
+    "Dora.js"
+  ],
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.9",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0"
+  }
+}
